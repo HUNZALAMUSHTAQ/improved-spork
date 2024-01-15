@@ -1,0 +1,7 @@
+Flask==3.0.0
+langchain==0.0.324
+python-dotenv==1.0.0
+weaviate-client==3.22.1
+Werkzeug==3.0.1
+pymupdf==1.22.5
+docx2txt==0.8
